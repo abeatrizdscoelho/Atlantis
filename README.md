@@ -47,7 +47,7 @@ Este projeto foi testado com Node v22.13.0 e funcionou corretamente, mas o supor
 ### 🔁 Clonando o Repositório
 
 ```bash
-git clone https://github.com/abeatrizdscoelho/ATVII-Atlantis.git
+git clone https://github.com/abeatrizdscoelho/Atlantis.git
   ```
 
 ```bash
