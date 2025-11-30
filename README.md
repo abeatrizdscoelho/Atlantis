@@ -47,11 +47,7 @@ git clone https://github.com/abeatrizdscoelho/Atlantis.git
   ```
 
 ```bash
-cd Atlantis
-```
-
-```bash
-cd ATVI-Atlantis
+git checkout ATVI-Atlantis
 ```
 
 ---
