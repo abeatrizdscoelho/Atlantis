@@ -23,7 +23,7 @@ git checkout ATVI-Atlantis
 
 ---
 
-### 📦 Como baixar o repositório
+### 📦 Como baixar o Repositório
 
 ```bash
 git clone https://github.com/abeatrizdscoelho/Atlantis.git
